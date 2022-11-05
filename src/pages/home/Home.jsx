@@ -32,7 +32,7 @@ function Home() {
         {/* Link section Start */}
         <div className="link-section">
           
-            <a href="https://twitter.com/JerahmeelJamico" rel="Twitter link">
+            <a href="https://twitter.com/EzealaGodswill" rel="Twitter link">
               Twitter Link
             </a>
           
